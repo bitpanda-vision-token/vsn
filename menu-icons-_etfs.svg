@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 56">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #103e36;
+      }
+    </style>
+  </defs>
+  <path class="cls-3" d="M0,9C0,4.03,4.03,0,9,0h38c4.97,0,9,4.03,9,9v38c0,4.97-4.03,9-9,9H9C4.03,56,0,51.97,0,47V9Z"/>
+  <path id="Path" class="cls-2" d="M33.25,8.75c.79.02,1.38.06,1.76.11,6.34.8,11.36,5.83,12.14,12.18.05.37.08.94.1,1.71h-14v-14Z"/>
+  <path id="Combined_Shape" data-name="Combined Shape" class="cls-1" d="M44.43,25.57h-14v-14h-2.43c-9.08,0-16.43,7.36-16.43,16.43s7.36,16.43,16.43,16.43,16.43-7.36,16.43-16.43v-2.43ZM28,42c-7.73,0-14-6.27-14-14s6.27-14,14-14v14h14c0,7.73-6.27,14-14,14Z"/>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 56">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #103e36;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M0,9C0,4.03,4.03,0,9,0h38c4.97,0,9,4.03,9,9v38c0,4.97-4.03,9-9,9H9C4.03,56,0,51.97,0,47V9Z"/>
+  <rect id="Rectangle-Copy-8" class="cls-2" x="14.6" y="24.89" width="6.09" height="18.28" rx="1.56" ry="1.56"/>
+  <rect id="Rectangle-Copy-7" class="cls-2" x="24.95" y="18.86" width="6.09" height="20.96" rx="1.56" ry="1.56"/>
+  <rect id="Rectangle-Copy-10" class="cls-2" x="35.31" y="12.83" width="6.09" height="22.31" rx="1.56" ry="1.56"/>
+</svg>
